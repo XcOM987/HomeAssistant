@@ -49,6 +49,7 @@ For recycling I opted for [this image](https://www.freepik.com/free-vector/trash
 I decided on a maximum size of 250x500 as this would be a good size to provide enough detail and not be too large, it would also fill cards on Home Assistant nicely.
 
 Once I have acquired my images I needed to make some modifications, I started by adding alpha layers to create transparencies, I also decided I had to change the colour of the bin to match mine to make it easier to see which bin it was at a glance, also so just so it matched, this was achieved in GIMP using the Hue and saturation tool, I added both images to a single file as separate layers, and changed the opacity to about 25% for the one I wanted greyed out, the result is below.
+
 ![Recycling](https://raw.githubusercontent.com/XcOM987/HomeAssistant/main/Notifications/Bins/Recycling.png)
 
 ![Waste](https://raw.githubusercontent.com/XcOM987/HomeAssistant/main/Notifications/Bins/waste.png)
